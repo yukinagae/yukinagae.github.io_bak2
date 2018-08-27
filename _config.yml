@@ -6,7 +6,7 @@
 title: "@yukinagae"
 email: "yuki.nagae1130@gmail.com"
 description: yukinagae's blog and work
-url: "yukinagae.github.io" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 keywords: ["blog", "jekyll"]
 
 #
