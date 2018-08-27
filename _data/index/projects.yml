@@ -1,0 +1,9 @@
+- name: pbchain
+  descr: "Probabilistic Programming with Python and Chainer"
+  image: pong.png
+  github: https://github.com/yukinagae/pbchain
+
+- name: codereader
+  descr: "Source code reading tool"
+  image: pong.png
+  github: https://github.com/yukinagae/codereader
